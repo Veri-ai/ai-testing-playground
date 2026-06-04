@@ -24,4 +24,4 @@ A demo project exploring how to apply QA automation to AI models.
 - **GitHub Codespaces**: Open the repo in Codespaces and run the same commands above.
 - **Replit**: Copy files into [Replit](https://replit.com/) and run directly in the browser.
 
-- ### For detailed instructions, see [GUIDE.md](GUIDE.md).
+### For detailed instructions, see [GUIDE.md](GUIDE.md).
